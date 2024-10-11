@@ -1,7 +1,6 @@
 
 # Fundamentals of Python
 
-![Python](https://www.python.org/community/logos/python-logo-master-v3-TM.png)
 
 ## Introduction
 
